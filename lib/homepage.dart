@@ -25,7 +25,7 @@ class homepage extends StatelessWidget {
                   color: Colors.indigo),
             ),
             Text(
-              "FLUTTER DEVELOPER",
+              "SOFTWARE ENGINEER",
               style: GoogleFonts.roboto(
                 fontSize: 20,
                 fontWeight: FontWeight.w500,
